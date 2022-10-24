@@ -7,6 +7,7 @@ function mayuscula(nombre) {
   return nombre[0].toUpperCase() + nombre.slice(1);
 
 }
+console.log(mayuscula("nacho"))
 
 function invocarCallback(cb) {
   // Invoca al callback `cb`

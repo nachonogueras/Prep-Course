@@ -1,0 +1,10 @@
+img {width: 400px;}
+        #thirdDiv{width: 450px;
+                height: 550px;
+                background-color: violet;
+                padding: 10px;
+                border: 20px;
+                border-color: black;
+                border-style: groove;
+            border-width: 5px;}
+        #spanId {margin: 50px;}
